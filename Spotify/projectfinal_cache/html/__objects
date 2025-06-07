@@ -1,0 +1,24 @@
+unnamed-chunk-1	all_songs	songs_2017	songs_2018	songs_2019
+unnamed-chunk-2	song_variables	.projectfinal_cache/html/unnamed-chunk-2_506056243792216b3cb1cc4c326e983e_meta
+unnamed-chunk-3	tempo	tempo_2017	tempo_2018	tempo_2019	years	.projectfinal_cache/html/unnamed-chunk-3_6380efc5264ee00ff65fae7f5d940330_meta
+unnamed-chunk-4	tempo_data	tempo_data_17	tempo_data_18	tempo_wide	.projectfinal_cache/html/unnamed-chunk-4_cc0e37dd889b46df7efdb177dadd3674_meta
+unnamed-chunk-5	.Random.seed
+unnamed-chunk-6	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-6_1992606551e4f9bad8fcbc7bda869b5d_meta
+unnamed-chunk-7	tempo_data	tempo_data_19	tempo_wide	.projectfinal_cache/html/unnamed-chunk-7_ccba413a3c9b7ae978ed8f5fb496cd5d_meta
+unnamed-chunk-8	
+unnamed-chunk-9	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-9_c58821b32d9c05e555d01186a8342088_meta
+unnamed-chunk-10	tempo_data	tempo_wide	.projectfinal_cache/html/unnamed-chunk-10_6bd3c454957563feb1c6f62bcc9ff63a_meta
+unnamed-chunk-11	
+unnamed-chunk-12	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-12_8b2fa4bcb9d7f104c8c31fd656cc5f82_meta
+unnamed-chunk-13	corr_2017	corr_2018	corr_2019
+unnamed-chunk-14	valence	valence_2017	valence_2018	valence_2019	years	.projectfinal_cache/html/unnamed-chunk-14_538d06e30e7e88282298be8804e5de76_meta
+unnamed-chunk-15	valence_data	valence_data_17	valence_data_18	valence_wide	.projectfinal_cache/html/unnamed-chunk-15_8fe37e839245e54c68fa8ceabd90a7b9_meta
+unnamed-chunk-16	
+unnamed-chunk-17	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-17_2a78a775045de2cc5a976192533d1e88_meta
+unnamed-chunk-18	valence_data	valence_data_19	valence_wide	.projectfinal_cache/html/unnamed-chunk-18_ac54795a6a68bec61ef078e02e34510c_meta
+unnamed-chunk-19	
+unnamed-chunk-20	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-20_7100455653ba680616ae3b6bd842b331_meta
+unnamed-chunk-21	valence_data	valence_wide	.projectfinal_cache/html/unnamed-chunk-21_1516007830e20cd87f035867c81714fc_meta
+unnamed-chunk-22	
+unnamed-chunk-23	results	stats	x	y	.projectfinal_cache/html/unnamed-chunk-23_32c12af837e0f03f8ec6ddd1c986eb51_meta
+unnamed-chunk-24	corr_2017	corr_2018	corr_2019
