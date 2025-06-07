@@ -1,24 +1,24 @@
-unnamed-chunk-1	%>%	mutate	rbind	read_csv
-unnamed-chunk-2	%>%	c	kable	kable_styling	tibble
-unnamed-chunk-3	%>%	bind_cols	bind_rows	c	kable	kable_styling	max	mean	min	n	sd	select	songs_2017	songs_2018	songs_2019	summarize	tibble
-unnamed-chunk-4	%>%	bind_rows	c	head	kable	kable_styling	mutate	pivot_wider	rank	select	songs_2017	songs_2018	tempo	year
-unnamed-chunk-5	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	tempo	tempo_data	theme_minimal	xlab	year	ylab
-unnamed-chunk-6	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tempo	tempo_data	tibble	year
-unnamed-chunk-7	%>%	bind_rows	c	head	kable	kable_styling	mutate	pivot_wider	rank	select	songs_2019	tempo	tempo_data_18	year
-unnamed-chunk-8	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	tempo	tempo_data	theme_minimal	xlab	year	ylab
-unnamed-chunk-9	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tempo	tempo_data	tibble	year
-unnamed-chunk-10	%>%	bind_rows	c	head	kable	kable_styling	pivot_wider	tempo	tempo_data_17	tempo_data_19	year
-unnamed-chunk-11	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	tempo	tempo_data	theme_minimal	xlab	year	ylab
-unnamed-chunk-12	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tempo	tempo_data	tibble	year
-unnamed-chunk-13	$	aes	cor	geom_point	geom_smooth	ggplot	ggtitle	rank	songs_2017	songs_2018	songs_2019	tempo
-unnamed-chunk-14	%>%	bind_cols	bind_rows	c	kable	kable_styling	max	mean	min	n	sd	select	songs_2017	songs_2018	songs_2019	summarize	tibble
-unnamed-chunk-15	%>%	bind_rows	c	head	kable	kable_styling	mutate	pivot_wider	rank	select	songs_2017	songs_2018	valence	year
-unnamed-chunk-16	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	theme_minimal	valence	valence_data	xlab	year	ylab
-unnamed-chunk-17	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tibble	valence	valence_data	year
-unnamed-chunk-18	%>%	bind_rows	c	head	kable	kable_styling	mutate	pivot_wider	rank	select	songs_2019	valence	valence_data_18	year
-unnamed-chunk-19	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	theme_minimal	valence	valence_data	xlab	year	ylab
-unnamed-chunk-20	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tibble	valence	valence_data	year
-unnamed-chunk-21	%>%	bind_rows	c	head	kable	kable_styling	pivot_wider	valence	valence_data_17	valence_data_19	year
-unnamed-chunk-22	aes	geom_boxplot	geom_point	ggplot	ggtitle	position_jitter	theme_minimal	valence	valence_data	xlab	year	ylab
-unnamed-chunk-23	%>%	==	$	c	filter	kable	kable_styling	pull	t.test	tibble	valence	valence_data	year
-unnamed-chunk-24	$	aes	cor	geom_point	geom_smooth	ggplot	ggtitle	rank	songs_2017	songs_2018	songs_2019	tempo	valence
+unnamed-chunk-1	
+unnamed-chunk-2	
+unnamed-chunk-3	songs_2017	songs_2018	songs_2019
+unnamed-chunk-4	songs_2017	songs_2018	tempo
+unnamed-chunk-5	tempo	tempo_data
+unnamed-chunk-6	tempo	tempo_data
+unnamed-chunk-7	songs_2019	tempo	tempo_data_18
+unnamed-chunk-8	tempo	tempo_data
+unnamed-chunk-9	tempo	tempo_data
+unnamed-chunk-10	tempo	tempo_data_17	tempo_data_19
+unnamed-chunk-11	tempo	tempo_data
+unnamed-chunk-12	tempo	tempo_data
+unnamed-chunk-13	songs_2017	songs_2018	songs_2019	tempo
+unnamed-chunk-14	songs_2017	songs_2018	songs_2019
+unnamed-chunk-15	songs_2017	songs_2018	valence
+unnamed-chunk-16	valence	valence_data
+unnamed-chunk-17	valence	valence_data
+unnamed-chunk-18	songs_2019	valence	valence_data_18
+unnamed-chunk-19	valence	valence_data
+unnamed-chunk-20	valence	valence_data
+unnamed-chunk-21	valence	valence_data_17	valence_data_19
+unnamed-chunk-22	valence	valence_data
+unnamed-chunk-23	valence	valence_data
+unnamed-chunk-24	songs_2017	songs_2018	songs_2019	tempo	valence
