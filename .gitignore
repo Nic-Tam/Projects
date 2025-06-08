@@ -1,0 +1,17 @@
+# Ignore virtual environments
+myenv/
+venv/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/
